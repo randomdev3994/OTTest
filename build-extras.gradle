@@ -16,5 +16,5 @@ allprojects {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.opentok.android:opentok-android-sdk:2.20.1'
+    implementation 'com.opentok.android:opentok-android-sdk:7.21.4'
 } 
