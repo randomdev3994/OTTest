@@ -12,5 +12,5 @@ module.exports = function (context) {
     let androidManifestFile = path.join(platformAndroidDir, 'AndroidManifest.xml');
     console.log(androidManifestFile);
     
-    throw new Error('just wanna check the logs pls');
+    //throw new Error('just wanna check the logs pls');
 }
